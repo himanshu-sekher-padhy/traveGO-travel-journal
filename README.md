@@ -1,6 +1,6 @@
-# 🌍 traveGO — Travel Journal
+# 🌍 traveGO - Travel Journal
 
-Welcome to **traveGO** — a simple, static travel journal built with **ReactJS** and **custom CSS**. It displays travel entries with essential information like place name, country, visit dates, a brief description, and a Google Maps link. This project is created for practicing how to **pass data through React props** in a clean and component-based setup.
+Welcome to **traveGO** - a simple, static travel journal built with **ReactJS** and **custom CSS**. It displays travel entries with essential information like place name, country, visit dates, a brief description, and a Google Maps link. This project is created for practicing how to **pass data through React props** in a clean and component-based setup.
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to **traveGO** — a simple, static travel journal built with **ReactJS*
 ```bash
 📦 traveGO/
 │
-├── 📁 node_modules/                  # Project dependencies
+├── 📁 node_modules/                 # Project dependencies
 │
 ├── 📁 public/
 │   ├── 🌐 favicon.png               # Browser tab icon
@@ -45,7 +45,7 @@ Welcome to **traveGO** — a simple, static travel journal built with **ReactJS*
 ├── 📁 src/
 │   ├── 📁 assets/
 │   │   ├── 📁 places/
-│   │   │   ├── 🖼️ img1.jpg         # Location images
+│   │   │   ├── 🖼️ img1.jpg          # Location images
 │   │   │   ├── 🖼️ img2.jpg
 │   │   │   ├── 🖼️ img3.webp
 │   │   │   ├── 🖼️ img4.webp
@@ -65,10 +65,10 @@ Welcome to **traveGO** — a simple, static travel journal built with **ReactJS*
 │   └── 📄 touristPlaces.js          # Static travel data array
 │
 ├── ⚙️ .gitignore                    # Files to exclude from Git
-├── 📄 eslint.config.js             # Linting rules
-├── 📄 index.html                   # HTML entry point
-├── 📄 package.json                 # Project metadata & scripts
-├── 📄 package-lock.json            # Dependency lockfile
-├── 📄 vite.config.js               # Vite configuration
-└── 📄 README.md                    # You're reading it!
+├── 📄 eslint.config.js              # Linting rules
+├── 📄 index.html                    # HTML entry point
+├── 📄 package.json                  # Project metadata & scripts
+├── 📄 package-lock.json             # Dependency lockfile
+├── 📄 vite.config.js                # Vite configuration
+└── 📄 README.md                     # You're reading it!
 ```
