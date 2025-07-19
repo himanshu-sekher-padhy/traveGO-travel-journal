@@ -1,4 +1,4 @@
-# 🌍 traveGO — Travel Journal Web App
+# 🌍 traveGO — Travel Journal
 
 Welcome to **traveGO** — a simple, static travel journal built with **ReactJS** and **custom CSS**. It displays travel entries with essential information like place name, country, visit dates, a brief description, and a Google Maps link. This project is created for practicing how to **pass data through React props** in a clean and component-based setup.
 
@@ -6,7 +6,7 @@ Welcome to **traveGO** — a simple, static travel journal built with **ReactJS*
 
 ## 📸 Preview
 
-![traveGO Preview](src/assets/places/preview.jpeg)
+![traveGO Preview](public/preview.jpeg)
 
 ---
 
