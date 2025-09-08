@@ -72,4 +72,3 @@ Welcome to **traveGO** - a simple, static travel journal built with **ReactJS** 
 ├── 📄 vite.config.js                # Vite configuration
 └── 📄 README.md                     # You're reading it!
 ```
-
